@@ -1,0 +1,10 @@
+1. Create a database "mytest" in PHPMyAdmin
+
+2. import this file "players.sql" to that
+
+3. View the voting.php in browser localhost/voting.php 
+
+4. All done! 
+
+
+Visit: www.onlinetuting.com for more tutorials.
